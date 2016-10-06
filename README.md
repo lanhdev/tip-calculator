@@ -14,6 +14,7 @@ The following **required** functionality is complete:
 * [x] Settings page to change the default tip percentage.
 
 The following **optional** features are implemented:
+* [x] Application icon
 * [x] UI animations
 * [x] Remembering the bill amount across app restarts (if <= 10 minutes)
 * [x] Using locale-specific currency and currency thousands separators.
@@ -21,21 +22,20 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [x] Light/Dark theme
+- [x] Light and Dark themes
 - [x] Reset button to set default percentage value
-- [x] Bill amount for each person
+- [x] Calculate tip for each person of a group
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](http://i.imgur.com/bneDK4s.gifv)
+![Video Walkthrough](http://i.imgur.com/bneDK4s.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/)
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+- Have little knowledge and experience with Swift
 
 ## License
 
