@@ -4,7 +4,7 @@
 
 Submitted by: **Lanh Hoang**
 
-Time spent: **36** hours spent in total
+Time spent: **38** hours spent in total
 
 ## User Stories
 
@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](http://i.imgur.com/VNKossv.gif)
+![Video Walkthrough](http://i.imgur.com/bneDK4s.gifv)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/)
 
